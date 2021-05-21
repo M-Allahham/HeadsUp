@@ -1,0 +1,6 @@
+framework module Pods_OCKWatchSample {
+  umbrella header "Pods-OCKWatchSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
